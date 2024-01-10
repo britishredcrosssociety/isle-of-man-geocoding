@@ -11,7 +11,7 @@ This example is in Python, but the workflow should be repeatable using the same 
 
 * Open the isle-of-man-postcodes.py file in an editor
 * On line 15, there is a sample of postcodes to geocode. This can be edited with any list of postcodes, either hard coded or read from another data source
-* After the postcode source has been defined, save the file and run it with `python3 -m channel-islands-postcodes.py`
+* After the postcode source has been defined, save the file and run it with `python3 -m isle-of-man-postcodes.py`
 * The script will output a json file with the results (a lat/lng coordinate pair), that can be used for further processing/analysis In the example in the Python script, the postcodes IM2 1AA, IM2 6RB, IM8 3EG, IM5 1RD are returned as:
 
 ```
@@ -20,7 +20,7 @@ This example is in Python, but the workflow should be repeatable using the same 
 'IM8 3EG': {'lat': 54.322, 'long': -4.384, 'coverage': 'Ramsey'}, 
 'IM5 1RD': {'lat': 54.222, 'long': -4.695, 'coverage': 'Peel'}}
 ```
- 
+
 ## How it was made
 
 * Wikipedia has a breakdown of the locations referred to by the IM postcodes, which helps to narrow postcodes down to a parish or town
