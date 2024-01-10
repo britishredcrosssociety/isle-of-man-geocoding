@@ -1,0 +1,27 @@
+﻿Postcode district,Sector(s),Unit codes,Regex,Coverage,Lat,Long
+IM1,,,IM1 [1-9][A-Z][A-Z],Douglas,54.150,-4.482
+IM2,,,IM2 [1-9][A-Z][A-Z],Douglas,54.150,-4.482
+IM3,,,IM3 [1-9][A-Z][A-Z],Onchan,54.175,-4.455
+IM4,1,,IM4 1[A-Z][A-Z],Port Soderick and Santon,54.123,-4.531
+IM4,2,,IM4 2[A-Z][A-Z],Greeba and Braddan,54.155,-4.574
+IM4,3,,IM4 3[A-Z][A-Z],St John's and Foxdale,54.202,-4.642
+IM4,4,,IM4 4[A-Z][A-Z],Braddan parish,54.177,-4.552
+IM4,5,,IM4 5[A-Z][A-Z],Onchan parish,54.187,-4.439
+IM4,6,,IM4 6[A-Z][A-Z],Baldrine,54.203,-4.408
+IM4,7,,IM4 7[A-Z][A-Z],Laxey and Lonan,54.232,-4.405
+IM5,1,,IM5 1[A-Z][A-Z],Peel,54.222,-4.695
+IM5,2,,IM5 2[A-Z][A-Z],German,54.217,-4.668
+IM5,3,,IM5 3[A-Z][A-Z],Patrick,54.206,-4.694
+IM6,,,IM6 [1-9][A-Z][A-Z],Kirk Michael,54.285,-4.587
+IM7,1,,IM7 1[A-Z][A-Z],Maughold,54.299,-4.318
+IM7,2,,IM7 2[A-Z][A-Z],Sulby and Lezayre,54.319,-4.491
+IM7,3,,IM7 3[A-Z][A-Z],Jurby,54.360,-4.523
+IM7,4,,IM7 4[A-Z][A-Z],Andreas and Bride,54.367,-4.444
+IM7,5,,IM7 5[A-Z][A-Z],Ballaugh,54.312,-4.544
+IM8,,,IM8 [1-9][A-Z][A-Z],Ramsey,54.322,-4.384
+IM9,1,,IM9 1[A-Z][A-Z],Castletown,54.074,-4.654
+IM9,2,,IM9 2[A-Z][A-Z],Ballasalla,54.098,-4.631
+IM9,3,,IM9 3[A-Z][A-Z],Malew,54.103,-4.655
+IM9,4,,IM9 4[A-Z][A-Z],Arbory,54.098,-4.706
+IM9,5,,IM9 5[A-Z][A-Z],Port St Mary,54.078,-4.739
+IM9,6,,IM9 6[A-Z][A-Z],Port Erin,54.086,-4.758
